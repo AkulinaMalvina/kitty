@@ -9,3 +9,5 @@ npm run task№задачи
 Само задание лежит в task.js
 
 Тесты гоняем с помощью mochajs
+
+https://docs.google.com/forms/d/1M2lkpX6iuAs24eW5QBspKC5HNcivtjChM7_EpFYyxkQ
